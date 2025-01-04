@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="reference.md">
+
+    <toc-element topic="reference.md"/>
+    <toc-element topic="Instalation.md"/>
+    <toc-element topic="Structure-de-NationsAPI.md">
+        <toc-element topic="Oauth.md"/>
+        <toc-element topic="Module-server.md"/>
+        <toc-element topic="Module-Country.md"/>
+        <toc-element topic="Module-User.md"/>
+        <toc-element topic="Module-NgIsland.md"/>
+        <toc-element topic="Module-Nabot.md"/>
+        <toc-element topic="Module-Nabot-Instance.md"/>
+        <toc-element topic="Module-Webhooks.md"/>
+    </toc-element>
+</instance-profile>

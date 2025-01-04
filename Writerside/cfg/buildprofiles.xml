@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables></variables>
+    <build-profile instance="in">
+        <variables>
+            <download-title>Utilisez NationsAPI</download-title>
+            <download-page>https://github.com/baba33mrt/NationsAPI/pkgs/npm/nationsapi</download-page>
+            <showDownloadButton>true</showDownloadButton>
+
+            <color-preset>vivid</color-preset>
+            <noindex-content>true</noindex-content>
+            <primary-color>blueberry</primary-color>
+        </variables>
+        <footer>
+            <copyright>Nationstools project</copyright>
+            <link href="https://github.com/baba33mrt/NationsAPI">Github</link>
+        </footer>
+    </build-profile>
+
+</buildprofiles>
